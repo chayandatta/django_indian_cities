@@ -1,4 +1,5 @@
 [![PyPI version](https://badge.fury.io/py/indian-cities.svg)](https://badge.fury.io/py/indian-cities)
+![PyPI - License](https://img.shields.io/pypi/l/indian-cities?style=for-the-badge)
 
 # django_indian_cities -- Simple django states cities for india
 

@@ -14,6 +14,6 @@ Any version of Python, Django
 
 ## Installation
 
-Install django-cities-light:
+Install django-indian-cities:
 
 > pip install django_indian_cities

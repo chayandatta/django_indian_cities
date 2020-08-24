@@ -16,4 +16,4 @@ Any version of Python, Django
 
 Install django-indian-cities:
 
-> pip install django_indian_cities
+> pip install indian_cities

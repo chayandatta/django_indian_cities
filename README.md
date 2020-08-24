@@ -7,7 +7,11 @@
 > To import
 
 ```
-from dj_city import CITY_STATE_CHOICES
+from dj_city import CITY_CHOICES, STATE_CHOICES
+
+class myModel(models.Model):
+    state = models.CharField(choices=STATE_CHOICES, null=False, max_length=20)
+    city = models.CharField(choices=CITY_CHOICES, null=False, max_length=20)
 ```
 
 Requirements:

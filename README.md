@@ -22,6 +22,12 @@ Any version of Python, Django
 
 ## Installation
 
-Install django-indian-cities:
+To install this
 
 > pip install indian_cities
+
+---
+
+### issues
+
+- [ ] pipenv install indian_cities not working

@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="indian_cities",
-    version="0.0.3",
+    version="0.0.4",
     description="Django Indian Cities",
     long_description=long_description,
     long_description_content_type="text/markdown",

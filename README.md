@@ -9,7 +9,7 @@
 > To import
 
 ```
-from dj_city import cities
+from indian-cities.dj_city import cities
 
 class myModel(models.Model):
 
@@ -26,6 +26,4 @@ Any version of Python, Django
 To install this
 
 > pip install indian_cities
-
----
 

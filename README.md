@@ -1,8 +1,8 @@
 [![PyPI version](https://badge.fury.io/py/indian-cities.svg)](https://badge.fury.io/py/indian-cities)
 ![PyPI - License](https://img.shields.io/pypi/l/indian-cities)
-[![Downloads](https://pepy.tech/badge/django-indian-cities)](https://pepy.tech/project/django-indian-cities)
+[![Downloads](https://pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
 
-# django_indian_cities -- states & cities for india
+# indian-cities  -- states & cities for india
 
 ## How to use this
 

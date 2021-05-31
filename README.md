@@ -9,11 +9,11 @@
 > To import
 
 ```
-from dj_city import CITIES
+from dj_city import cities
 
 class myModel(models.Model):
 
-    city = models.CharField(choices=CITIES, null=False, max_length=20)
+    city = models.CharField(choices=cities, null=False, max_length=20)
 
 ```
 
@@ -29,6 +29,3 @@ To install this
 
 ---
 
-### issues
-
-- [ ] pipenv install indian_cities not working

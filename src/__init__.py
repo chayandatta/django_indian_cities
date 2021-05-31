@@ -1,0 +1,1 @@
+from dj_city import cities

@@ -1,4 +1,4 @@
-CITIES = (
+cities = (
     ("Andaman and Nicobar Islands", (("Port Blair", "Port Blair"),)),
     (
         "Andhra Pradesh",

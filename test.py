@@ -1,3 +1,3 @@
-from src.dj_city import CITIES
+from src.dj_city import cities
 
-print(CITIES[0])
+print(cities[0])

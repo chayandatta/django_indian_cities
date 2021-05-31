@@ -43,7 +43,7 @@ Any version of Python, Django
 
 To install this
 
-> pip install indian_cities
+> pip install indian-cities
 
 ---
 ## Connect with me:

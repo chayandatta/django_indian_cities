@@ -36,6 +36,22 @@ cities = (
             ("Chilakaluripet", "Chilakaluripet"),
         ),
     ),
+    ("Arunachal Pradesh", (("Itanagar", "Itanagar"),)),
+    (
+        "Assam", 
+        (
+            ("Dhuburi", "Dhuburi"),
+            ("Dibrugarh", "Dibrugarh"),
+            ("Dispur", "Dispur"),
+            ("Guwahati", "Guwahati"),
+            ("Jorhat", "Jorhat"),
+            ("Nagaon", "Nagaon"),
+            ("Sivasagar", "Sivasagar"),
+            ("Silchar", "Silchar"),
+            ("Tezpur", "Tezpur"),
+            ("Tinsukia", "Tinsukia"),
+        )
+    ),
     (
         "Bihar",
         (

@@ -1,6 +1,7 @@
 [![PyPI version](https://badge.fury.io/py/indian-cities.svg)](https://badge.fury.io/py/indian-cities)
 ![PyPI - License](https://img.shields.io/pypi/l/indian-cities)
-[![Downloads](https://pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
+[![Downloads](https://static.pepy.tech/badge/indian-cities)](https://pepy.tech/project/indian-cities)
+[![Downloads](https://static.pepy.tech/badge/indian-cities/month)](https://pepy.tech/project/indian-cities)
 [![CodeFactor](https://www.codefactor.io/repository/github/chayandatta/django_indian_cities/badge)](https://www.codefactor.io/repository/github/chayandatta/django_indian_cities)
 
 # indian-cities  -- states & cities for india 🇮🇳
